@@ -18,9 +18,8 @@ Table of Contents (# of sub-topics):
 Some advanced topics may be included:
 Metaprogramming, Modules and Packages, Network and Web Programming, Concurrency, Utility Scripting and System Admin, Testing/Debugging/Exceptions, C Extension
 ================================================================
-"""
 
-"""
+
 ================================================================
 1. Data Structures and Algorithms
 ================================================================
@@ -28,7 +27,7 @@ Metaprogramming, Modules and Packages, Network and Web Programming, Concurrency,
 
 
 ######### Unpacking a Sequence into Separate Variables #########
-================================================================
+#================================================================
 #Any sequence can be unpacked into variables using a simple assignment operation'
 raw_data = ['TSLA', 1000, (2021, 11,1)]
 instrument_name, price, (year, month, day) = raw_data
