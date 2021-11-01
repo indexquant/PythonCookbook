@@ -25,9 +25,9 @@ Metaprogramming, Modules and Packages, Network and Web Programming, Concurrency,
 Data Structures and Algorithms
 ================================================================
 
-============================================
+================================================================
 1. Unpacking a Sequence into Separate Variables
-============================================
+================================================================
 """
 #Any sequence can be unpacked into variables using a simple assignment operation'
 raw_data = ['TSLA', 1000, (2021, 11,1)]
@@ -35,5 +35,11 @@ instrument_name, price, (year, month, day) = raw_data
 print(price)
 print(month)
 
+#Unpacking works with any object not just tuples or lists.
+string = 'Python'
+a, b, c, d, e, f = string
+print(b)
+
 #if you want to discard certain values
 _, price, (year, month, day) = raw_data
+
