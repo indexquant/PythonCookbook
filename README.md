@@ -1,1 +1,21 @@
 # PythonCookbook
+
+
+
+The curriculum and script ideas are mainly sourced from "Python Cookbook by David Beazley & Brian K.Jones (O'Reilly)
+
+last update : 1 Nov 2021
+
+<u>Table of Contents (# of sub-topics):</u>
+
+1. Data Structures and Algorithms (20)
+2. Strings and Text (20)
+3. Numbers, Dates, and Times (16)
+4. Iterators and Generators (16)
+5. Files and I/O (21)
+6. Data Encoding and Processing (13)
+7. Functions (12)
+8. Classes and Objects (25)
+
+Some advanced topics may be included:<br><br>
+Metaprogramming, Modules and Packages, Network and Web Programming, Concurrency, Utility Scripting and System Admin, Testing/Debugging/Exceptions, C Extension
