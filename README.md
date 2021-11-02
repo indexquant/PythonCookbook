@@ -2,7 +2,7 @@
 
 
 
-The curriculum and script ideas are mainly sourced from "Python Cookbook by David Beazley & Brian K.Jones (O'Reilly)
+The curriculum and script ideas are mainly sourced from "Python Cookbook" by David Beazley & Brian K.Jones (O'Reilly).
 
 last update : 1 Nov 2021
 
