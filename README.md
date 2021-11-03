@@ -7,7 +7,7 @@ The curriculum and script ideas are mainly sourced from below.<br><br>
 <i> - "Derivatives Analytics with Python" by Yves hilpisch (Wiley)</i><br>
 
 
-last update : 1 Nov 2021
+last update : 3 Nov 2021
 
 <u>Table of Contents (# of sub-topics):</u>
 
