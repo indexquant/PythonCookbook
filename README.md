@@ -2,7 +2,10 @@
 
 
 
-The curriculum and script ideas are mainly sourced from "Python Cookbook" by David Beazley & Brian K.Jones (O'Reilly).
+The curriculum and script ideas are mainly sourced from below.
+<i>"Python Cookbook" by David Beazley & Brian K.Jones (O'Reilly)
+Derivatives Analytics with Python by Yves hilpisch (Wiley)
+</i>
 
 last update : 1 Nov 2021
 
