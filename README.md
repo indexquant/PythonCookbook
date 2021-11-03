@@ -1,13 +1,11 @@
 # PythonCookbook
 
-
+<i>last update : 3 Nov 2021</i><br>
 
 The curriculum and script ideas are mainly sourced from below.<br><br>
 <i> - "Python Cookbook" by David Beazley & Brian K.Jones (O'Reilly)</i><br>
 <i> - "Derivatives Analytics with Python" by Yves hilpisch (Wiley)</i><br>
 
-
-last update : 3 Nov 2021
 
 <u>Table of Contents (# of sub-topics):</u>
 
